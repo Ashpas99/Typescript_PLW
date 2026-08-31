@@ -19,5 +19,7 @@ class Dog implements Animal{
 
 let pet = new Dog("Woofy", "Golden");
 console.log(pet.name);         //Woofy
-console.log(Dog.color);       //undefined
+console.log(Dog.color);       //Golden
 pet.sound();          //Bark...
+
+
