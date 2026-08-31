@@ -15,3 +15,4 @@ console.log(employee.firstName)
 console.log(employee["firstName"])
 console.log(employee["getData"]())
 console.log("This is 2nd conflict");
+console.log("Git Conflict");
